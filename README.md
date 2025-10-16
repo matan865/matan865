@@ -16,6 +16,9 @@ A passionate developer from Israel, currently a third-year student at Bar-Ilan U
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 </p>
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matan865&layout=compact&theme=tokyonight)
+
 
 <!--
 **matan865/matan865** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
