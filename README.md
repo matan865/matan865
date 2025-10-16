@@ -17,9 +17,6 @@ A passionate developer from Israel, currently a third-year student at Bar-Ilan U
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 </p>
 
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matan865&layout=compact&theme=tokyonight)
-
 
 
 <!--
