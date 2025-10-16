@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi I'm Matan 👋
+A passionate developer from Israel, currently a third-year student at Bar-Ilan University pursuing a Bachelor's degree in Computer Science.
+* Looking for a Student Position.
+* Passionate about full-stack development and problem-solving.
 <!--
 **matan865/matan865** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
