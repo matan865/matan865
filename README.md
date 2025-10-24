@@ -18,6 +18,10 @@ A passionate developer from Israel, currently a third-year student at Bar-Ilan U
 </p>
 
 
+### 🧠 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matan865&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **matan865/matan865** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
